@@ -200,3 +200,51 @@ Using Group Policy provides several advantages:
 # Summary
 
 Group Policy was used extensively throughout the Windows Server 2022 Enterprise IT Lab to automate configuration, enforce security standards, and simplify system administration. Password policies, account lockout settings, automatic drive mapping, and Windows Update management demonstrate how Group Policy enables efficient and consistent administration across a Windows domain.
+
+# Screenshots
+
+## Group Policy Management Console
+
+![GPMC](../images/gpmc-console.png)
+
+---
+
+## Password Policy
+
+![Password Policy](../images/password-policy.png)
+
+---
+
+## Account Lockout Policy
+
+![Account Lockout](../images/account-lockout-policy.png)
+
+---
+
+## Drive Mapping Policy
+
+![Drive Mapping](../images/drive-mapping-gpo.png)
+
+---
+
+## Windows Update Policy
+
+![Windows Update](../images/windows-update-gpo.png)
+
+---
+
+## Group Policy Update
+
+![gpupdate](../images/gpupdate-success.png)
+
+---
+
+## Group Policy Results
+
+![gpresult](../images/gpresult-output.png)
+
+---
+
+## Automatically Mapped HR Drive
+
+![Mapped HR Drive](../images/mapped-drive-hr.png)
