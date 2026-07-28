@@ -217,3 +217,33 @@ The following tasks were successfully completed:
 # Summary
 
 Active Directory provides the foundation for centralized management within the Windows Server 2022 Enterprise IT Lab. By organizing users, computers, and security groups into a structured hierarchy, the environment supports efficient administration, secure authentication, scalable growth, and consistent policy enforcement across the enterprise.
+
+# Screenshots
+
+## Organizational Unit Structure
+
+![Active Directory OU Structure](../images/ad-ou-structure.png)
+
+---
+
+## Human Resources Users
+
+![HR Users](../images/ad-users-hr.png)
+
+---
+
+## Security Groups
+
+![Security Groups](../images/ad-security-groups.png)
+
+---
+
+## Workstations
+
+![Workstations](../images/ad-computers.png)
+
+---
+
+## Servers
+
+![Servers](../images/ad-servers.png)
