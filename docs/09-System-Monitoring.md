@@ -233,3 +233,64 @@ Effective monitoring provides:
 # Summary
 
 System monitoring plays a vital role in maintaining a healthy Windows Server environment. Throughout this lab, built-in Windows administration tools were used to monitor performance, troubleshoot issues, verify system health, and maintain reliable operation of servers and client computers.
+
+
+# Screenshots
+
+## Task Manager
+
+![Task Manager](../images/task-manager-performance.png)
+
+---
+
+## Resource Monitor
+
+![Resource Monitor](../images/resource-monitor.png)
+
+---
+
+## Performance Monitor
+
+![Performance Monitor](../images/performance-monitor.png)
+
+---
+
+## Reliability Monitor
+
+![Reliability Monitor](../images/reliability-monitor.png)
+
+---
+
+## Event Viewer
+
+![Event Viewer](../images/event-viewer.png)
+
+---
+
+## Services Console
+
+![Services](../images/services-console.png)
+
+---
+
+## Windows Admin Center Monitoring
+
+![Windows Admin Center](../images/windows-admin-center-performance.png)
+
+---
+
+## Group Policy Verification
+
+![gpresult](../images/gpresult-command.png)
+
+---
+
+## DHCP Verification
+
+![ipconfig](../images/ipconfig-command.png)
+
+---
+
+## DNS Verification
+
+![nslookup](../images/nslookup-command.png)
