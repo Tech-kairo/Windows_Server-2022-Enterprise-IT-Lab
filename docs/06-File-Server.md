@@ -208,3 +208,45 @@ Implementing centralized file services provides several advantages.
 # Summary
 
 The File Server provides centralized and secure file storage for the KabTech enterprise environment. By combining SMB shares, NTFS permissions, Active Directory security groups, and automatic drive mapping through Group Policy, the solution ensures users have access only to the resources required for their roles while maintaining a scalable and manageable file-sharing infrastructure.
+
+# Screenshots
+
+## Shared Folders
+
+![Shared Folders](../images/fs-shared-folders.png)
+
+---
+
+## Share Permissions
+
+![Share Permissions](../images/fs-share-permissions.png)
+
+---
+
+## NTFS Permissions
+
+![NTFS Permissions](../images/fs-ntfs-permissions.png)
+
+---
+
+## Public Share
+
+![Public Share](../images/fs-public-share.png)
+
+---
+
+## Software Share
+
+![Software Share](../images/fs-software-share.png)
+
+---
+
+## Mapped Network Drive
+
+![Mapped Network Drive](../images/fs-network-drive.png)
+
+---
+
+## HR User Access
+
+![HR Folder Access](../images/fs-hr-access.png)
