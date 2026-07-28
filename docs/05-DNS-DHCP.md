@@ -238,3 +238,44 @@ At the completion of the DNS and DHCP deployment:
 DNS and DHCP provide the networking foundation of the Windows Server 2022 Enterprise IT Lab. DNS enables reliable name resolution for Active Directory and other services, while DHCP automates IP address assignment and client configuration. Together, these services simplify network administration, reduce configuration errors, and support centralized management across the enterprise.
 
 
+# Screenshots
+
+## DNS Forward Lookup Zone
+
+![DNS Forward Lookup Zone](../images/dns-forward-zone.png)
+
+---
+
+## DNS Host Records
+
+![DNS Host Records](../images/dns-host-records.png)
+
+---
+
+## DHCP Scope
+
+![DHCP Scope](../images/dhcp-scope.png)
+
+---
+
+## DHCP Scope Options
+
+![DHCP Scope Options](../images/dhcp-scope-options.png)
+
+---
+
+## Active DHCP Leases
+
+![DHCP Leases](../images/dhcp-leases.png)
+
+---
+
+## DNS Verification
+
+![nslookup Test](../images/nslookup-test.png)
+
+---
+
+## DHCP Verification
+
+![ipconfig /all](../images/ipconfig-all.png)
