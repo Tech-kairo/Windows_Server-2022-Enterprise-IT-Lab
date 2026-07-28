@@ -236,3 +236,52 @@ Using Windows Admin Center provides several advantages:
 # Summary
 
 Windows Admin Center provides a modern, secure, browser-based management platform for Windows infrastructure. By deploying WAC in this lab, multiple servers and client computers can be administered remotely from a single interface, improving operational efficiency and simplifying day-to-day IT administration.
+
+
+# Screenshots
+
+## Windows Admin Center Dashboard
+
+![Dashboard](../images/wac-dashboard.png)
+
+---
+
+## Managed Computers
+
+![Server List](../images/wac-server-list.png)
+
+---
+
+## DC01 Overview
+
+![DC01](../images/wac-dc01-overview.png)
+
+---
+
+## PC01 Overview
+
+![PC01](../images/wac-pc01-overview.png)
+
+---
+
+## Event Viewer
+
+![Event Viewer](../images/wac-event-viewer.png)
+
+---
+
+## Remote PowerShell
+
+![PowerShell](../images/wac-powershell.png)
+
+---
+
+## Performance Monitoring
+
+![Performance](../images/wac-performance.png)
+
+---
+
+## Services
+
+![Services](../images/wac-services.png)
