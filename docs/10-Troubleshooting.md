@@ -284,4 +284,50 @@ This project reinforced several important IT administration concepts:
 
 The troubleshooting activities completed during this lab strengthened practical Windows Server administration skills. Each issue was investigated, resolved where appropriate, and documented, demonstrating a structured approach to diagnosing and correcting common enterprise IT problems.
 
+# Screenshots
 
+## Incorrect DHCP Address
+
+![Wrong IP Address](../images/wrong-ip-address.png)
+
+---
+
+## Correct DHCP Address
+
+![Correct IP Address](../images/correct-ip-address.png)
+
+---
+
+## DHCP Scope Options
+
+![DHCP Scope](../images/dhcp-scope-options.png)
+
+---
+
+## DNS Records
+
+![DNS Records](../images/dns-records.png)
+
+---
+
+## Successful DNS Lookup
+
+![nslookup](../images/nslookup-success.png)
+
+---
+
+## Windows Admin Center Connection
+
+![Windows Admin Center](../images/windows-admin-center-connected.png)
+
+---
+
+## HR Network Drive
+
+![Mapped Drive](../images/mapped-hr-drive.png)
+
+---
+
+## Group Policy Update
+
+![gpupdate](../images/gpupdate-success.png)
