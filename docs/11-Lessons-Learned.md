@@ -221,3 +221,9 @@ Core infrastructure services included:
 This project significantly improved my practical Windows Server administration skills and provided hands-on experience with technologies commonly used in enterprise IT environments. Beyond configuring services, I gained valuable troubleshooting experience and developed confidence in managing and maintaining Windows infrastructure.
 
 The completed lab serves as a practical portfolio project that demonstrates my ability to deploy, administer, monitor, and troubleshoot a Windows Server environment using industry-standard tools and best practices.
+
+# Final Lab Overview
+
+The following image shows the completed Windows Server 2022 Enterprise IT Lab environment.
+
+![Completed Lab](../images/completed-lab.png)
